@@ -13,8 +13,7 @@
             <Keywords name="Numbers, suffix1"></Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">- ! % &amp; ( ) , . : ? ^ | ~ + &lt; = &gt; * / [ ]</Keywords>
-            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Operators">- ! % &amp; ( ) , . : ? ^ | ~ + &lt; = &gt; * / [ ]</Keywords>
             <Keywords name="Folders in code1, open">{</Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
             <Keywords name="Folders in code1, close">}</Keywords>
@@ -42,7 +41,7 @@
             <WordsStyle name="KEYWORDS1" fgColor="C586C0" bgColor="3F3F3F" colorStyle="1" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS2" fgColor="569CD6" bgColor="3F3F3F" colorStyle="1" fontStyle="1" nesting="0" />
             <WordsStyle name="KEYWORDS3" fgColor="CE9178" bgColor="3F3F3F" colorStyle="1" fontStyle="3" nesting="0" />
-            <WordsStyle name="KEYWORDS4" fgColor="FF0080" bgColor="3F3F3F" colorStyle="1" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="005185" bgColor="3F3F3F" colorStyle="1" fontStyle="1" nesting="0" />
             <WordsStyle name="KEYWORDS5" fgColor="CE9178" bgColor="3F3F3F" colorStyle="1" fontStyle="2" nesting="0" />
             <WordsStyle name="KEYWORDS6" fgColor="CE9178" bgColor="3F3F3F" colorStyle="1" fontStyle="3" nesting="0" />
             <WordsStyle name="KEYWORDS7" fgColor="CE9178" bgColor="3F3F3F" colorStyle="1" fontStyle="3" nesting="0" />
